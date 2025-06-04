@@ -1,0 +1,118 @@
+{
+  "members": [
+    {
+      "email": "user@example.com",
+      "password": "user123",
+      "role": "user",
+      "id": "59d2"
+    },
+    {
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "id": "5676"
+    },
+    {
+      "email": "newuser@example.com",
+      "password": "newuser123",
+      "role": "user",
+      "id": "62d2"
+    }
+  ],
+  "offers": [
+    {
+      "id": "e2888302-2f29-4079-908b-fd7221c46e60",
+      "description": "Offer for R500",
+      "buyer": "user@example.com",
+      "seller": "admin@example.com",
+      "text": "R500",
+      "amount": "715267321",
+      "createdBy": "user@example.com",
+      "createdAt": "2025-05-14T04:00:55.511Z",
+      "lastEditedAt": "2025-05-23T16:50:04.402Z",
+      "status": "bidding"
+    },
+    {
+      "id": "cdff7c21-f10f-408b-a33f-87ca1891002e",
+      "description": "Offer for R600",
+      "buyer": "admin@example.com",
+      "seller": "user@example.com",
+      "text": "R600",
+      "amount": "600",
+      "createdBy": "admin@example.com",
+      "createdAt": "2025-05-14T04:12:35.346Z",
+      "lastEditedAt": "2025-05-14T04:12:35.346Z",
+      "status": "bidding"
+    },
+    {
+      "id": "b796c52c-d284-4d12-a376-36846f133a9e",
+      "description": "Offer for R500",
+      "buyer": "user@example.com",
+      "seller": "admin@example.com",
+      "text": "R500",
+      "amount": "500",
+      "createdBy": "user@example.com",
+      "createdAt": "2025-05-14T04:18:44.476Z",
+      "lastEditedAt": "2025-05-14T04:18:44.476Z",
+      "status": "bidding"
+    },
+    {
+      "id": "3103a73e-1c01-45da-bb6d-e0446db66389",
+      "description": "Offer for jide",
+      "buyer": "user@example.com",
+      "seller": "admin@example.com",
+      "text": "jide",
+      "amount": "0",
+      "createdBy": "user@example.com",
+      "createdAt": "2025-05-14T04:25:20.490Z",
+      "lastEditedAt": "2025-05-14T04:25:20.490Z",
+      "status": "bidding"
+    },
+    {
+      "id": "54ae6417-dd4d-4d45-9779-777bcb9a452a",
+      "description": "laptop bag",
+      "buyer": "newuser@example.com",
+      "seller": "user@example.com",
+      "text": "give it to me!",
+      "amount": "30004",
+      "createdBy": "user@example.com",
+      "createdAt": "2025-05-21T00:07:35.115Z",
+      "lastEditedAt": "2025-05-21T00:07:35.115Z",
+      "status": "bidding"
+    },
+    {
+      "id": "dc532495-d08b-400b-b8b9-16380c9b2328",
+      "description": "lapdog",
+      "buyer": "newuser@example.com",
+      "seller": "user@example.com",
+      "text": "1223",
+      "amount": "345",
+      "createdBy": "user@example.com",
+      "createdAt": "2025-05-21T00:16:11.711Z",
+      "lastEditedAt": "2025-05-21T00:16:11.711Z",
+      "status": "bidding"
+    },
+    {
+      "id": "41e2e32a-2ddb-4058-bf1c-fa216a24ad51",
+      "description": "pouch",
+      "buyer": "newuser@example.com",
+      "seller": "user@example.com",
+      "text": "gimme",
+      "amount": "49",
+      "createdBy": "newuser@example.com",
+      "createdAt": "2025-05-21T00:56:50.840Z",
+      "lastEditedAt": "2025-05-21T00:56:50.840Z",
+      "status": "bidding"
+    },
+    {
+      "id": "810d0cc1-36d6-4ef4-9771-51451957b179",
+      "description": "tshepangbaloyi",
+      "buyer": "user@example.com",
+      "seller": "newuser@example.com",
+      "text": "jyegdd",
+      "amount": "600",
+      "createdBy": "newuser@example.com",
+      "createdAt": "2025-05-26T15:11:14.649Z"
+    }
+  ]
+}
