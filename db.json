@@ -42,7 +42,7 @@
       "createdBy": "admin@example.com",
       "createdAt": "2025-05-14T04:12:35.346Z",
       "lastEditedAt": "2025-05-14T04:12:35.346Z",
-      "status": "bidding"
+      "status": "completed"
     },
     {
       "id": "b796c52c-d284-4d12-a376-36846f133a9e",
@@ -66,7 +66,7 @@
       "createdBy": "user@example.com",
       "createdAt": "2025-05-14T04:25:20.490Z",
       "lastEditedAt": "2025-05-14T04:25:20.490Z",
-      "status": "bidding"
+      "status": "completed"
     },
     {
       "id": "54ae6417-dd4d-4d45-9779-777bcb9a452a",
@@ -102,7 +102,7 @@
       "createdBy": "newuser@example.com",
       "createdAt": "2025-05-21T00:56:50.840Z",
       "lastEditedAt": "2025-05-21T00:56:50.840Z",
-      "status": "bidding"
+      "status": "completed"
     },
     {
       "id": "810d0cc1-36d6-4ef4-9771-51451957b179",
@@ -112,7 +112,8 @@
       "text": "jyegdd",
       "amount": "600",
       "createdBy": "newuser@example.com",
-      "createdAt": "2025-05-26T15:11:14.649Z"
+      "createdAt": "2025-05-26T15:11:14.649Z",
+      "status": "bidding"
     }
   ]
 }
