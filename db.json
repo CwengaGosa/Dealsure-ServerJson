@@ -41,7 +41,7 @@
     {
       "id": "cdff7c21-f10f-408b-a33f-87ca1891002e",
       "description": "Offer for R600",
-      "buyer": "admin@example.com",
+      "buyer": "newuser@example.com",
       "seller": "neweruser@example.com",
       "text": "R600",
       "amount": "600",
