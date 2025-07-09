@@ -2,19 +2,25 @@
   "members": [
     {
       "email": "user@example.com",
-      "password": "user123",
+      "password": "1234",
       "role": "user",
       "id": "59d2"
     },
     {
       "email": "admin@example.com",
-      "password": "admin123",
+      "password": "1234",
       "role": "admin",
       "id": "5676"
     },
     {
       "email": "newuser@example.com",
-      "password": "newuser123",
+      "password": "1234",
+      "role": "user",
+      "id": "62d2"
+    },
+    {
+      "email": "neweruser@example.com",
+      "password": "1234",
       "role": "user",
       "id": "62d2"
     }
@@ -24,7 +30,7 @@
       "id": "e2888302-2f29-4079-908b-fd7221c46e60",
       "description": "Offer for R500",
       "buyer": "user@example.com",
-      "seller": "admin@example.com",
+      "seller": "neweruser@example.com",
       "text": "R500",
       "amount": "715267321",
       "createdBy": "user@example.com",
@@ -36,10 +42,10 @@
       "id": "cdff7c21-f10f-408b-a33f-87ca1891002e",
       "description": "Offer for R600",
       "buyer": "admin@example.com",
-      "seller": "user@example.com",
+      "seller": "neweruser@example.com",
       "text": "R600",
       "amount": "600",
-      "createdBy": "admin@example.com",
+      "createdBy": "neweruser@example.com",
       "createdAt": "2025-05-14T04:12:35.346Z",
       "lastEditedAt": "2025-05-14T04:12:35.346Z",
       "status": "completed"
@@ -48,7 +54,7 @@
       "id": "b796c52c-d284-4d12-a376-36846f133a9e",
       "description": "Offer for R500",
       "buyer": "user@example.com",
-      "seller": "admin@example.com",
+      "seller": "neweruser@example.com",
       "text": "R500",
       "amount": "500",
       "createdBy": "user@example.com",
@@ -60,7 +66,7 @@
       "id": "3103a73e-1c01-45da-bb6d-e0446db66389",
       "description": "Offer for jide",
       "buyer": "user@example.com",
-      "seller": "admin@example.com",
+      "seller": "neweruser@example.com",
       "text": "jide",
       "amount": "0",
       "createdBy": "user@example.com",
