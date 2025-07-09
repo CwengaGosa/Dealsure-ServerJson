@@ -36,6 +36,7 @@
       "createdBy": "user@example.com",
       "createdAt": "2025-05-14T04:00:55.511Z",
       "lastEditedAt": "2025-05-23T16:50:04.402Z",
+      "lastEditedBy": "user@example.com",
       "status": "bidding"
     },
     {
@@ -48,6 +49,7 @@
       "createdBy": "neweruser@example.com",
       "createdAt": "2025-05-14T04:12:35.346Z",
       "lastEditedAt": "2025-05-14T04:12:35.346Z",
+      "lastEditedBy": "newuser@example.com",
       "status": "completed"
     },
     {
@@ -60,6 +62,7 @@
       "createdBy": "user@example.com",
       "createdAt": "2025-05-14T04:18:44.476Z",
       "lastEditedAt": "2025-05-14T04:18:44.476Z",
+      "lastEditedBy": "newuser@example.com",
       "status": "bidding"
     },
     {
@@ -72,6 +75,7 @@
       "createdBy": "user@example.com",
       "createdAt": "2025-05-14T04:25:20.490Z",
       "lastEditedAt": "2025-05-14T04:25:20.490Z",
+      "lastEditedBy": "neweruser@example.com",
       "status": "completed"
     },
     {
@@ -84,6 +88,7 @@
       "createdBy": "user@example.com",
       "createdAt": "2025-05-21T00:07:35.115Z",
       "lastEditedAt": "2025-05-21T00:07:35.115Z",
+      "lastEditedBy": "user@example.com",
       "status": "bidding"
     },
     {
@@ -96,6 +101,7 @@
       "createdBy": "user@example.com",
       "createdAt": "2025-05-21T00:16:11.711Z",
       "lastEditedAt": "2025-05-21T00:16:11.711Z",
+      "lastEditedBy": "user@example.com",
       "status": "bidding"
     },
     {
@@ -108,6 +114,7 @@
       "createdBy": "newuser@example.com",
       "createdAt": "2025-05-21T00:56:50.840Z",
       "lastEditedAt": "2025-05-21T00:56:50.840Z",
+      "lastEditedBy": "newuser@example.com",
       "status": "completed"
     },
     {
@@ -119,6 +126,8 @@
       "amount": "600",
       "createdBy": "newuser@example.com",
       "createdAt": "2025-05-26T15:11:14.649Z",
+      "lastEditedAt": "2025-05-26T15:11:14.649Z",
+      "lastEditedBy": "user@example.com",
       "status": "bidding"
     }
   ],
@@ -135,6 +144,7 @@
         "createdBy": "user@example.com",
         "createdAt": "2025-05-14T04:25:20.490Z",
         "lastEditedAt": "2025-05-14T04:25:20.490Z",
+        "lastEditedBy": "neweruser@example.com",
         "status": "completed"
       },
       "user": "user@example.com",
@@ -155,6 +165,7 @@
         "createdBy": "newuser@example.com",
         "createdAt": "2025-05-21T00:56:50.840Z",
         "lastEditedAt": "2025-05-21T00:56:50.840Z",
+        "lastEditedBy": "newuser@example.com",
         "status": "completed"
       },
       "user": "newuser@example.com",
@@ -175,6 +186,7 @@
         "createdBy": "neweruser@example.com",
         "createdAt": "2025-05-14T04:12:35.346Z",
         "lastEditedAt": "2025-05-14T04:12:35.346Z",
+        "lastEditedBy": "newuser@example.com",
         "status": "completed"
       },
       "user": "neweruser@example.com",
@@ -195,6 +207,7 @@
         "createdBy": "user@example.com",
         "createdAt": "2025-05-21T00:07:35.115Z",
         "lastEditedAt": "2025-05-21T00:07:35.115Z",
+        "lastEditedBy": "user@example.com",
         "status": "bidding"
       },
       "user": "user@example.com",
@@ -215,6 +228,7 @@
         "createdBy": "user@example.com",
         "createdAt": "2025-05-21T00:16:11.711Z",
         "lastEditedAt": "2025-05-21T00:16:11.711Z",
+        "lastEditedBy": "user@example.com",
         "status": "bidding"
       },
       "user": "newuser@example.com",
@@ -234,6 +248,8 @@
         "amount": "600",
         "createdBy": "newuser@example.com",
         "createdAt": "2025-05-26T15:11:14.649Z",
+        "lastEditedAt": "2025-05-26T15:11:14.649Z",
+        "lastEditedBy": "user@example.com",
         "status": "bidding"
       },
       "user": "newuser@example.com",
@@ -254,6 +270,7 @@
         "createdBy": "user@example.com",
         "createdAt": "2025-05-14T04:18:44.476Z",
         "lastEditedAt": "2025-05-14T04:18:44.476Z",
+        "lastEditedBy": "newuser@example.com",
         "status": "bidding"
       },
       "user": "neweruser@example.com",
